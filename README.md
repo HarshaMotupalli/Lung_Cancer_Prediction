@@ -1,18 +1,12 @@
 # 🩺 Lung Cancer Prediction
 
-A Streamlit web application that predicts the presence of lung cancer based on patient symptoms and lifestyle indicators using a trained machine learning model (XGBoost).
+A Streamlit web application that predicts the presence of lung cancer based on patient symptoms indicators using a trained machine learning model.
 
 ---
 
 ## 🎯 Objective
 
 Predict whether a patient has lung cancer based on features like smoking, anxiety, peer pressure, coughing, and more.
-
----
-
-## 🚀 Live App
-
-👉 [Live Demo](https://lungcancerprediction-bvvzs9shgp2vvrwmzvq6ry.streamlit.app/)
 
 ---
 
@@ -26,11 +20,10 @@ Predict whether a patient has lung cancer based on features like smoking, anxiet
 
 ## 📦 Technologies Used
 
-- Python 🐍
-- RandomForest
+- Pandas, NumPy
+- Python 
 - Scikit-learn
 - Streamlit
-- Pandas, NumPy
 
 ---
 
